@@ -1,4 +1,4 @@
-yimport React, { useState, useRef, useCallback } from 'react';
+import React, { useState, useRef, useCallback } from 'react';
 import { Upload, Image as ImageIcon, Download, Loader2, Sparkles, AlertCircle, X, Wand2, Tag, AlignLeft, MessageSquare } from 'lucide-react';
 
 import imglyRemoveBackground from '@imgly/background-removal';
